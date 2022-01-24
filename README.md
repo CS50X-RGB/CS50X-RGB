@@ -7,7 +7,8 @@
 <h3 align="center">A Newbie in Coding & want to explore a lot ....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs50x-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="cs50x-rgb" /> </p>
-- I'm here to collabrate & learn about open source , (AI & ML), & Devlopment
+
+-    I'm here to collabrate & learn about open source , (AI & ML), & Devlopment.
 - 🤝 I’m looking for help with [My Website](https://github.com/CS50X-RGB/Website)
 
 - 📫 How to reach me **rohanchatterjee866@gmail.com**
