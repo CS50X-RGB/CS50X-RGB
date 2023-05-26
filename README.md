@@ -23,5 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cs50x-rgb&show_icons=true&locale=en&layout=compact" alt="cs50x-rgb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cs50x-rgb&show_icons=true&locale=en" alt="cs50x-rgb" /></p>
+[![CS50X-RGB's GitHub | Stats](https://stats.quine.sh/CS50X-RGB/github?theme=dark)](https://quine.sh)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cs50x-rgb&" alt="cs50x-rgb" /></p>
